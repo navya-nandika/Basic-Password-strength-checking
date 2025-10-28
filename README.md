@@ -180,9 +180,12 @@ Using personal info, short passwords, common words, or reusing passwords across 
 
 
 
+*Outcome:*
+
+By completing this task, I learned how password complexity, randomness, and length affect security. I also gained practical experience in using password evaluation tools and identifying best practices for secure authentication.
+
+
+
 *Author : Navya Nandika*
 
 *Date: October 28, 2025*
-✅ Outcome
-
-By completing this task, I learned how password complexity, randomness, and length affect security. I also gained practical experience in using password evaluation tools and identifying best practices for secure authentication.
