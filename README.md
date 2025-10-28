@@ -33,12 +33,14 @@ Kaspersky Password Checker
    <img width="980" height="688" alt="image" src="https://github.com/user-attachments/assets/2120741c-53a8-48a4-b675-39e5c0d5d041" />
 
    findings : lowercase + digits
-              38% (Weak)
+
+38% (Weak)
+
               Too short, predictable, lacks variety
 
 
    
-2. Navya123
+3. Navya123
 
    <img width="741" height="897" alt="image" src="https://github.com/user-attachments/assets/cfc23678-c9f9-4f57-94c6-cb154dd82eae" />
 
@@ -49,7 +51,7 @@ Kaspersky Password Checker
               Better complexity but still common pattern
 
 
-3. Navya@123
+4. Navya@123
 
    <img width="744" height="901" alt="image" src="https://github.com/user-attachments/assets/18c429cc-8603-4b96-b28c-580f3e61683d" />
 
@@ -60,7 +62,7 @@ Kaspersky Password Checker
               Better complexity but still common pattern
 
    
-4. N@vY@_19#25
+5. N@vY@_19#25
 
    <img width="743" height="900" alt="image" src="https://github.com/user-attachments/assets/013a3e99-5f6d-497f-911c-82fa776f67c5" />
 
@@ -71,7 +73,7 @@ Kaspersky Password Checker
               Good entropy and length
 
    
-5. T!m3_to$ecur3#Y0uR_D@t@  [best one so far]
+6. T!m3_to$ecur3#Y0uR_D@t@  [best one so far]
 
    <img width="741" height="902" alt="image" src="https://github.com/user-attachments/assets/f56211b1-ce25-4133-9c94-d55b2f9d42b2" />
 
