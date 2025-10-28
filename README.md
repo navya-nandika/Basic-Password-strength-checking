@@ -32,9 +32,11 @@ Kaspersky Password Checker
 
    <img width="980" height="688" alt="image" src="https://github.com/user-attachments/assets/2120741c-53a8-48a4-b675-39e5c0d5d041" />
 
-   findings : lowercase + digits
+   findings :
 
-38% (Weak)
+              lowercase + digits
+
+              38% (Weak)
 
               Too short, predictable, lacks variety
 
@@ -46,41 +48,57 @@ Kaspersky Password Checker
 
    <img width="953" height="650" alt="image" src="https://github.com/user-attachments/assets/dcfd1ab8-a2f6-4d1d-aace-394ef54fd0ee" />
 
-   findings : uppercase + lowercase + digit
+   findings :
+
+              uppercase + lowercase + digit
+
               68% (Medium)
+   
               Better complexity but still common pattern
 
 
-4. Navya@123
+5. Navya@123
 
    <img width="744" height="901" alt="image" src="https://github.com/user-attachments/assets/18c429cc-8603-4b96-b28c-580f3e61683d" />
 
    <img width="487" height="328" alt="image" src="https://github.com/user-attachments/assets/aa308d37-7c82-41f7-b571-8e84f2abef7d" />
 
-   findings : uppercase + lowercase + digit + symbol
+   findings :
+
+              uppercase + lowercase + digit + symbol
+   
               82% (Very Strong)
+   
               Better complexity but still common pattern
 
    
-5. N@vY@_19#25
+7. N@vY@_19#25
 
    <img width="743" height="900" alt="image" src="https://github.com/user-attachments/assets/013a3e99-5f6d-497f-911c-82fa776f67c5" />
 
    <img width="1008" height="620" alt="image" src="https://github.com/user-attachments/assets/dbe1bfbc-1f9e-43e4-b194-4c0a5c27c098" />
 
-   findings : mixed case + symbols + digits
+   findings :
+
+              mixed case + symbols + digits
+   
               100% (Very Strong)
+   
               Good entropy and length
 
    
-6. T!m3_to$ecur3#Y0uR_D@t@  [best one so far]
+9. T!m3_to$ecur3#Y0uR_D@t@  [best one so far]
 
    <img width="741" height="902" alt="image" src="https://github.com/user-attachments/assets/f56211b1-ce25-4133-9c94-d55b2f9d42b2" />
 
    <img width="1026" height="572" alt="image" src="https://github.com/user-attachments/assets/2cb7eb5a-cfc6-476b-b2cf-21f832a4235d" />
 
-   findings : passphrase style, long, varied
+   findings :
+
+              passphrase style, long, varied
+   
               100% (Very Strong)
+   
               Excellent strength and resistance to attacks
 
 
